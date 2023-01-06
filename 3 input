@@ -1,0 +1,87 @@
+PROGRAM test
+
+STRUCT kiriaki
+VARS
+CHAR kyr,od;
+INTEGER a[4];
+ENDSTRUCT
+
+
+FUNCTION elenh(k,e,a)
+VARS
+CHAR ena,dyo,tria[5];
+VARS
+kiriaki pente;
+%sxolio
+RETURN dyo
+END_FUNCTION 
+
+
+FUNCTION arhodia(yooo)
+VARS
+INTEGER hfg;
+%sxolioo
+WHILE(lkkfk == fkhv)
+%sxolio
+ENDWHILE
+RETURN jfkf
+END_FUNCTION
+
+
+STARTMAIN
+VARS
+INTEGER tria;
+
+%tessera
+%e3i
+
+WHILE(hff > khg)
+%jejfow
+BREAK ;
+ENDWHILE
+
+FOR k:= 3 TO 3 STEP 3
+BREAK ;
+%kdjdjd
+ENDFOR
+
+PRINT(efihelfe);
+
+PRINT(efueh[,ju]);
+
+/*
+paradeigma
+PRINT(efihelfe);
+/* fiwjfowjfwojfw */
+fwfwfew
+fwfwf
+*/
+
+
+IF(kyr>kyriaki) THEN
+PRINT(hjfeihfeo);
+
+ELSEIF
+%kjfoej
+
+ELSE
+%yoooo
+ENDIF
+
+/* fiwjfowjfwojfw */
+
+
+SWITCH (ksd == kfd)
+
+CASE (gkg==ok):
+%sxolio
+BREAK ;
+
+DEFAULT:
+%sxolio
+ENDSWITCH
+
+kyri = kyr(g[5], k[5]);
+po = (ky + 8);
+
+ENDMAIN
